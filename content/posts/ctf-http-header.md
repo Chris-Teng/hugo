@@ -1,6 +1,6 @@
 ---
 title: 'Http header'
-date: 2020-8-14T13:11:12+01:00
+date: 2020-8-14
 draft: false
 ---
 
