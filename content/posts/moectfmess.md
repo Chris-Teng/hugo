@@ -1,10 +1,8 @@
 ---
-title: 'My First Post'
+title: '【moectf】mess writeup'
 date: 2019-07-18T17:18:05+01:00
 draft: false
 ---
-
-# 【moectf】mess writeup
 
 <a name="K2Ujw"></a>
 # 0x 00 题
