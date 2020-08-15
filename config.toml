@@ -134,7 +134,7 @@ copyright = "T1m3ch0"            # default: author.name ↓        # 默认为�
     appKey = 'qRzt2XNvoMIAfjfzipUTB4NO'
     avatar = 'mm'
     placeholder = ''
-    visitor = false
+    visitor = true
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
