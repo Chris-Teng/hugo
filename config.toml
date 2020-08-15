@@ -157,8 +157,7 @@ copyright = "T1m3ch0"            # default: author.name ↓        # 默认为�
 
   [params.social]                                         # 社交链接
     a-email = "mailto:1457404238@qq.com"
-    g-github = "https://github.com/Timechoo"+
-    
+    g-github = "https://github.com/Timechoo"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
