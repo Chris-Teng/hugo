@@ -1,0 +1,4 @@
+baseURL = "https://hugo-ten-mauve.vercel.app/"
+languageCode = "en-us"
+title = "Timecho 🎓"
+theme = "anatole"
