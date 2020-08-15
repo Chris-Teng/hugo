@@ -1,6 +1,6 @@
 ---
 title: '【moectf】mess writeup'
-date: 2020-8-5
+date: 2020-08-13T17:18:05+01:00
 tags: [ctf]
 ---
 
