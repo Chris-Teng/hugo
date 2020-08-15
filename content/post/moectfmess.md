@@ -1,5 +1,5 @@
 ---
-title: '【moectf】mess writeup'
+title: '【Moectf】mess Writeup'
 date: 2020-08-13T17:18:05+01:00
 tags: [ctf]
 ---
