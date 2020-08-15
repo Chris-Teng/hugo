@@ -1,7 +1,7 @@
 ---
 title: '【moectf】mess writeup'
-date: 2020-8-14T13:11:12+01:00
-draft: false
+date: 2020-8-5
+tags: [ctf]
 ---
 
 <a name="K2Ujw"></a>
