@@ -1,6 +1,6 @@
 ---
 title: 'Http header'
-date: {{ .Date }}
+date: 2020-07-18T17:18:05+01:00
 draft: false
 ---
 
@@ -45,8 +45,7 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 </html>
 听说你算数挺快？？
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2020/png/595179/1596692969717-583314f7-9290-473b-a006-d5616c70e0b2.png#align=left&display=inline&height=112&margin=%5Bobject%20Object%5D&name=image.png&originHeight=224&originWidth=507&size=16715&status=done&style=none&width=253.5)<br />页面每秒刷新一次，很自然地排除人工输入<br />一开始写的脚本是get一次，然后算出结果post回去。然而与预期结果不符，猛然醒悟，post的时候数字已经发生了变化。<br />所以需要一个可以在不刷新页面提交表单的机制。也就是保持当前会话:在requests库里找到了session()
-> <a name="68500ac9"></a>
+ <a name="68500ac9"></a>
 ## 会话对象
 > 会话对象让你能够跨请求保持某些参数。它也会在同一个 Session 实例发出的所有请求之间保持 cookie， 期间使用 `urllib3` 的 [connection pooling](http://urllib3.readthedocs.io/en/latest/reference/index.html#module-urllib3.connectionpool) 功能。所以如果你向同一主机发送多个请求，底层的 TCP 连接将会被重用，从而带来显著的性能提升
 
