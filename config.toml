@@ -1,12 +1,11 @@
-baseURL = "https://websec.ga"
+baseURL = "https://t1m3ch0.tk"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "T1m3ch0"
 preserveTaxonomyNames = true
-enableRobotsTXT = false
+enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
-buildFuture = true
 
 # Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
 pygmentsOptions = "linenos=table"
@@ -60,8 +59,8 @@ copyright = "T1m3ch0"            # default: author.name ↓        # 默认为�
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "T1m3ch0"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Timecho", "websec","网络安全","T1m3ch0"]
-
+  keywords = ["Timecho", "web security","网络安全","T1m3ch0","code"]
+  description = "Sites from China,made with love for coding and security.Always learning,always shining."
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 50
 
@@ -80,7 +79,7 @@ copyright = "T1m3ch0"            # default: author.name ↓        # 默认为�
   # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = true                                                                            # 是否开启目录
-  autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
+  autoCollapseToc = true   # Auto expand and collapse toc                              # 目录自动展开/折叠
   fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
 
   postMetaInFooter = false   # contain author, lastMod, markdown link, license           # 包含作者，上次修改时间，markdown链接，许可信息
