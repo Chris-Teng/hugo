@@ -5,9 +5,9 @@ tags: [develop,开发,docker]
 ---
 
 # docker
-
+![](https://cdn.nlark.com/yuque/0/2020/png/595179/1602727941904-2258800b-a5b2-4f91-99f9-f8462758756d.png#align=left&display=inline&height=330&margin=%5Bobject%20Object%5D&originHeight=330&originWidth=660&size=0&status=done&style=none&width=660)
 <a name="Owcro"></a>
-# 架构![](https://cdn.nlark.com/yuque/0/2020/png/595179/1602727941904-2258800b-a5b2-4f91-99f9-f8462758756d.png#align=left&display=inline&height=330&margin=%5Bobject%20Object%5D&originHeight=330&originWidth=660&size=0&status=done&style=none&width=660)
+# 架构
 <a name="3pKVa"></a>
 ## 重要概念
 先弄清docker中的三个重要概念：镜像、容器、仓库<br />**镜像**是只读的，包含了基础操作系统文件和Linux运行的必要文件。镜像是静态的容器。文件系统中体现在所有镜像文件保存在diff文件夹下。<br />**容器**是加载镜像的sandbox<br />**仓库**是用于保存和分发镜像<br />
