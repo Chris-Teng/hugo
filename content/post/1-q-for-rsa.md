@@ -1,7 +1,7 @@
 ---
 title: '一道题入门RSA'
 date: 2020-09-15T10:36:05+08:00
-tags: [crypto,rsa]
+tags: [crypto]
 ---
 
 # 一道题入门RSA

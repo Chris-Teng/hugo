@@ -1,7 +1,7 @@
 ---
 title: '【Moectf】部分题解'
 date: 2020-08-13T17:18:05+01:00
-tags: [ctf]
+tags: [CTF]
 ---
 
 # 【Moectf】Writeup

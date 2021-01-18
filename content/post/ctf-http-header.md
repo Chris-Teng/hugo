@@ -1,7 +1,7 @@
 ---
 title: 'Http header'
 date: 2020-07-18T17:18:05+08:00
-tags: [ctf]
+tags: [WebSecurity,CTF]
 ---
 
 <a name="pazYR"></a>
