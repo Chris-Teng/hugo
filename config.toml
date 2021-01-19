@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 author = "Teng"
 baseURL = "https://t1m3ch0.tk"
-copyright = "Copyright © 2010–2021"
+copyright = "Copyright © 2020–2021"
 
 disqusShortname = "teng-1"
 enableInlineShortcodes = true
